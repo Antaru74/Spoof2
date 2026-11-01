@@ -12,7 +12,7 @@ permissions:
 
 env:
   # Nama zip di root repo. Jika tidak ketemu, dipakai file .zip pertama di root.
-  ZIP_FILE: PerAppSpoof-LSPosed1.zip
+  ZIP_FILE: PerAppSpoof-LSPosed2.zip
 
 jobs:
   build:
